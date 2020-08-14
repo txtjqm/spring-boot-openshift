@@ -24,7 +24,7 @@ public class HelloController {
 	@GetMapping("/echoOut/{variableID}")
 	public String echoOut(@PathVariable String variableID) {
 		int variableID2 = Integer.parseInt(variableID);
-		return "/echoOut/output/ variableID: " +  variableID2 + " value: <b>" + currVal + "</b> at ..... " + new SimpleDateFormat("mm 'min', ss 'sec'").format(new Date());
+		return "/echoOut/output/ variableID..: " +  variableID2 + " value: <b>" + currVal + "</b> at ..... " + new SimpleDateFormat("mm 'min', ss 'sec'").format(new Date());
 	}
 
 }

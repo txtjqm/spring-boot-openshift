@@ -22,7 +22,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9649da22-58b4-49c4-81f5-f21aa96ea518" name="Default Changelist" comment="" />
+    <list default="true" id="9649da22-58b4-49c4-81f5-f21aa96ea518" name="Default Changelist" comment="aa">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/springboot/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/springboot/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboot/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springboot/HelloController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,8 +48,39 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fxRmGe1hCV5ygS9i4bpqsF0UAo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,10 +91,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle tasks" />
+      <command value="gradle build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.complete [build]">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.springboot.Application" />
       <module name="spring-boot.main" />
@@ -62,8 +114,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="complete [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="complete [tasks]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tasks" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.complete [tasks]" />
+        <item itemvalue="Gradle.complete [build]" />
         <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
@@ -77,6 +169,14 @@
       <option name="presentableId" value="Default" />
       <updated>1597157914751</updated>
     </task>
+    <task id="LOCAL-00001" summary="aa">
+      <created>1597253730788</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597253730788</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +195,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="aa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aa" />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="6" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597241003533">
@@ -105,26 +207,26 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="454" y="7" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1280.720@0.0.1280.720" timestamp="1597241728245" />
-    <state x="368" y="38" key="FileChooserDialogImpl" timestamp="1597253473641">
+    <state x="368" y="38" key="FileChooserDialogImpl" timestamp="1597253616118">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="368" y="38" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1597253473641" />
-    <state width="1225" height="203" key="GridCell.Tab.0.bottom" timestamp="1597253278266">
+    <state x="368" y="38" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1597253616118" />
+    <state width="1225" height="161" key="GridCell.Tab.0.bottom" timestamp="1597269878344">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1225" height="203" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1597253278266" />
-    <state width="1225" height="203" key="GridCell.Tab.0.center" timestamp="1597253278266">
+    <state width="1225" height="161" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1597269878344" />
+    <state width="1225" height="161" key="GridCell.Tab.0.center" timestamp="1597269878343">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1225" height="203" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1597253278266" />
-    <state width="1225" height="203" key="GridCell.Tab.0.left" timestamp="1597253278266">
+    <state width="1225" height="161" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1597269878343" />
+    <state width="1225" height="161" key="GridCell.Tab.0.left" timestamp="1597269878343">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1225" height="203" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1597253278266" />
-    <state width="1225" height="203" key="GridCell.Tab.0.right" timestamp="1597253278266">
+    <state width="1225" height="161" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1597269878343" />
+    <state width="1225" height="161" key="GridCell.Tab.0.right" timestamp="1597269878343">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1225" height="203" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1597253278266" />
+    <state width="1225" height="161" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1597269878343" />
     <state width="1225" height="203" key="GridCell.Tab.1.bottom" timestamp="1597253278266">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -141,9 +243,17 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1225" height="203" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1597253278266" />
-    <state x="33" y="0" key="SettingsEditor" timestamp="1597253389919">
+    <state x="33" y="0" key="SettingsEditor" timestamp="1597254131889">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="33" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1597253389919" />
+    <state x="33" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1597254131889" />
+    <state x="133" y="28" key="Vcs.Push.Dialog.v2" timestamp="1597254162461">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="133" y="28" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1597254162461" />
+    <state x="213" y="157" width="840" height="1034" key="run.anything.popup" timestamp="1597269640668">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="213" y="157" width="840" height="1034" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1597269640668" />
   </component>
 </project>
