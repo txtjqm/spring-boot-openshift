@@ -1,4 +1,6 @@
 
+WARNING: I am learning this and dont know what I'm doing! Don't use as guide!
+
 used these as guide:
 intro: https://spring.io/guides/gs/spring-boot-docker/
 advanced "topical": https://spring.io/guides/topicals/spring-boot-docker/
