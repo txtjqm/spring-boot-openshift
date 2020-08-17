@@ -1,5 +1,7 @@
 
-WARNING: I am learning this and dont know what I'm doing! Don't use as guide!
+WARNING: "Do not follow this vehicle"
+This is a scratch app I'm using to learn how it works, so dont use as a guide.
+--------------------------------------
 
 used these as guide:
 intro: https://spring.io/guides/gs/spring-boot-docker/
@@ -23,6 +25,13 @@ to put on openshift using docker
      ** https://www.openshift.com/blog/deploy-private-git-repositories
      ** https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
      $ ssh-keygen -t rsa -b 4096 -C "myEmailHere@gmail.com"
+     ... COULDNT GET TO WORK. HAD TO MAKE REPO PUBLIC INSTEAD....
+     ... maybe would work from openshift cli tools on pc ...
+     ... tried git clone from pc with rsa cert, had to type "yes"...
+ . import from github failed with error
+    "openshift services=1, used: services=5, limited: services=5"
+ * Fixed it by deleting old project entirely. Must be limit of 1 project
+  on free openshift, apparently.
 
 
 ==========================================

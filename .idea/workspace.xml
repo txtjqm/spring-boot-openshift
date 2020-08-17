@@ -24,7 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9649da22-58b4-49c4-81f5-f21aa96ea518" name="Default Changelist" comment="aa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597671149823</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="aa">
+      <created>1597679116916</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597679116916</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,10 +263,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="33" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1597254131889" />
-    <state x="133" y="28" key="Vcs.Push.Dialog.v2" timestamp="1597671154695">
+    <state x="133" y="28" key="Vcs.Push.Dialog.v2" timestamp="1597679119564">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="133" y="28" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1597671154695" />
+    <state x="133" y="28" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1597679119564" />
     <state x="213" y="157" width="840" height="1034" key="run.anything.popup" timestamp="1597269640668">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
