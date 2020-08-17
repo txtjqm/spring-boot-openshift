@@ -17,6 +17,13 @@ to put on openshift using docker
   : java -jar build/libs/spring-boot-0.0.1-SNAPSHOT.jar 
   : curl localhost:8080/actuator/health
 3. put project on github
+4. on openshift console
+   ?? add->import from git
+   If using private git repository make private key
+     ** https://www.openshift.com/blog/deploy-private-git-repositories
+     ** https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+     $ ssh-keygen -t rsa -b 4096 -C "myEmailHere@gmail.com"
+
 
 ==========================================
 hot reload when debugger running:
